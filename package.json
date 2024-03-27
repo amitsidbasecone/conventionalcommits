@@ -1,0 +1,21 @@
+{
+  "name": "conventionalcommits",
+  "version": "1.0.0",
+  "description": "This repository is to demonstrate the benefits of conventional commits for creating changelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitsidbasecone/conventionalcommits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitsidbasecone/conventionalcommits/issues"
+  },
+  "homepage": "https://github.com/amitsidbasecone/conventionalcommits#readme"
+}
